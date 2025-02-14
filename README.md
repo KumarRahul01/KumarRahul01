@@ -2,12 +2,11 @@
 A passionate Full Stack Developer 🌟 on a mission to shape the web one pixel at a time.
 
 ## 💫 About Me:
-🚀 Full-Stack Developer | UI Enthusiast<br>⚡ Building sleek & high-performance web apps.<br>💡 Skilled in JavaScript, React.js, Tailwind, Node.js.<br>🎯 Passionate about UI, performance & problem-solving.<br>🌱 Exploring Next.js & advanced state management.
+🚀 Full-Stack Developer | UI Enthusiast<br>⚡ Building sleek & high-performance web apps.<br>💡 Skilled in JavaScript, React.js, Tailwind, Node.js.<br>🎯 Passionate about UI, performance & problem-solving.<br>🌱 Exploring Next.js & advanced state management.<br> 📫 How to reach me **rahulk.dev2002@gmail.com**
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rahul-kumar-chandra) 
-[![Email](https://img.shields.io/badge/Email-%230077B5.svg?logo=linkedin&logoColor=white)](mailto:rahulk.dev2002@gmail.com)
 
 
 # 💻 Tech Stack:
