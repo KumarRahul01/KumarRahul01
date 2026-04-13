@@ -41,7 +41,7 @@ const rahul = {
 ```
 
 - 🔭 Currently building **[Repurfy.com](https://repurfy.com)** — a SaaS for content creators to repurpose content across platforms
-- 💼 **1+ year** of experience building production apps at ZenStudy, LCNC Technologies & Trayistats AI
+- 💼 **1+ year** of experience building production apps at Trayistats AI Technologies, ZenStudy Pvt Ltd & LCNC Technologies Pvt Ltd
 - 🎯 Actively looking for **Full Stack / Frontend / Backend Developer** roles
 - 📺 Creating coding content on **[YouTube — BeCodeGeek](https://youtube.com/@BeCodeGeek)**
 - 💡 Passionate about **clean architecture, performance, and shipping real products**
