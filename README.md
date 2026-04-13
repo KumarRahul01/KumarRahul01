@@ -64,31 +64,8 @@ const rahul = {
       <a href="https://eduvanza.vercel.app"><img src="https://img.shields.io/badge/Live Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
       <a href="https://github.com/KumarRahul01/Eduvanza"><img src="https://img.shields.io/badge/Source Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
-    <td width="50%">
-      <h3>🧩 DSAQuest — Practice Platform</h3>
-      <p>450+ question DSA practice platform with topic filters, progress tracking, notes, and secure CRUD APIs. Built for interview preparation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-      </p>
-      <a href="https://dsa-quest.vercel.app"><img src="https://img.shields.io/badge/Live Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-      <a href="https://github.com/KumarRahul01/DSAQuest"><img src="https://img.shields.io/badge/Source Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-    </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>🍔 Swiggy Clone — Food Delivery App</h3>
-      <p>Production-like food delivery app consuming live Swiggy APIs with location-based filtering, Redux cart management, and API caching across 10+ pages.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-      </p>
-      <a href="https://swiggy-clone-app-sigma.vercel.app"><img src="https://img.shields.io/badge/Live Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-      <a href="https://github.com/KumarRahul01/swiggy-clone-app"><img src="https://img.shields.io/badge/Source Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-    </td>
     <td width="50%">
       <h3>🔁 Repurfy — Content SaaS <kbd>In Progress</kbd></h3>
       <p>SaaS platform for repurposing content across platforms. Built with Next.js, Node.js & MongoDB. Focused on clean architecture and scalability.</p>
