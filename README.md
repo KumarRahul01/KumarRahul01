@@ -19,7 +19,8 @@
   [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kumarrahul01x)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulk.dev2002@gmail.com)
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=KumarRahul01&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+  
+  ![Profile Views](https://img.shields.io/badge/Profile%20Views-500%2B-7c3aed?style=for-the-badge)
 
 </div>
 
@@ -52,30 +53,46 @@ const rahul = {
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>📚 Eduvanza — LMS Platform</h3>
-      <p>Full-featured Learning Management System with course creation, instructor analytics dashboard, PhonePe payments, RBAC, and dark/light mode.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-      </p>
-      <a href="https://eduvanza.vercel.app"><img src="https://img.shields.io/badge/Live Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-      <a href="https://github.com/KumarRahul01/Eduvanza"><img src="https://img.shields.io/badge/Source Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🔁 Repurfy — Content SaaS <kbd>In Progress</kbd></h3>
-      <p>SaaS platform for repurposing content across platforms. Built with Next.js, Node.js & MongoDB. Focused on clean architecture and scalability.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-      </p>
-      <a href="https://repurfy.com"><img src="https://img.shields.io/badge/Visit Site-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-    </td>
+<td valign="top" width="50%">
+  
+  ### 🔁 Repurfy — AI SaaS
+  
+  SaaS platform for repurposing content across platforms. Built with Next.js, Node.js & MongoDB. Focused on clean architecture and scalability.
+  
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  
+  <br/><br/>
+  
+  <a href="https://repurfy.com">
+    <img src="https://img.shields.io/badge/Visit_Site-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  
+  </td>
+
+  <td valign="top" width="50%">
+  
+  ### 📚 Eduvanza — LMS Platform
+  
+  Full-featured Learning Management System with course creation, instructor analytics dashboard, PhonePe payments, RBAC, and dark/light mode.
+  
+  <img src="https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+  
+  <br/><br/>
+  
+  <a href="https://eduvanza.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/KumarRahul01/Eduvanza">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  </td>
   </tr>
 </table>
 
